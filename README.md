@@ -10,8 +10,8 @@
 <h2>👨‍🔬 About me</h2>
 
 <p>
-I am a PhD researcher working on <b>biorefinery process modeling, scale-up, and optimization</b>.  
-My work focuses on developing mathematical models of unit operations and integrating them into larger process simulation frameworks for techno-economic and environmental assessment.
+I am a PhD researcher working on <b>biorefinery process modelling, scale-up, and optimization</b>.  
+My work focuses on developing mathematical models of unit operations and integrating them into biorefinery models for techno-economic assessment.
 </p>
 
 <p>
@@ -19,8 +19,7 @@ I am especially interested in:
 </p>
 
 <ul>
-  <li>Bioprocess modeling and simulation</li>
-  <li>Biorefinery design and optimization</li>
+  <li>Bioprocess modelling and simulation</li>
   <li>Techno-economic assessment (TEA)</li>
   <li>Process scale-up</li>
   <li>Python tools for scientific and engineering applications</li>
