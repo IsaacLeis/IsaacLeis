@@ -44,25 +44,7 @@ I am especially interested in:
 
 <h2>📊 GitHub stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=IsaacLeis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLeis&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Top languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=IsaacLeis&theme=tokyonight&hide_border=true&count_private=true"
-    alt="GitHub streak"
-  />
-</p>
+![Github stats](https://github-readme-stats.vercel.app/api?username=IsaacLeis&count_private=true&show_icons=true)
 
 <h2>🌱 Currently working on</h2>
 
