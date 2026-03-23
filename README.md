@@ -51,7 +51,7 @@ I am especially interested in:
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLeis&layout=compact&theme=tokyonight&hide_border=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLeis&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
     alt="Top languages"
   />
